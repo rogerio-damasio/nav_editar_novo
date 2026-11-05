@@ -26,7 +26,7 @@
  - como fazer os cards usando boostrap?
  - como fazer para colocar uma lixeira no btn
  - um card q atuliza com quantos produtos e o preço tem entre o titulo e o btn novo produto
- - Ajude me a adicionar o código <Plasma /> em meu projeto
+ - Ajude me a adicionar o código <Plasma /> em meu projeto.
 Converta esse código de plano de fundo JSX para EJS
 Se esse não for o código certo, a biblioteca index é https://reactbits.dev/llms.txt.
 
@@ -34,6 +34,7 @@ Se esse não for o código certo, a biblioteca index é https://reactbits.dev/ll
  - Perguntas de layout
  - Como executar o layout
  - como implementar carts ao layout
+ - converte JSX para EJS
 
 ## Alterações Sugeridas pela IA
 1. Hierarquia Visual e Cores
