@@ -15,7 +15,10 @@
  NodeJS, EJS, HTML, Bootstrap, CRUD
 
 ## Funcionalidades
- Create, Read, Update, Delete
+ - Create
+ - Read
+ - Update
+ - Delete
 
 ## Prompt Utilizado
  - como posso melhorar o layout em relação a organização dos elementos, experientcia do usuario e um layout mais moderno?
@@ -23,6 +26,9 @@
  - como fazer os cards usando boostrap?
  - como fazer para colocar uma lixeira no btn
  - um card q atuliza com quantos produtos e o preço tem entre o titulo e o btn novo produto
+ - Ajude me a adicionar o código <Plasma /> em meu projeto
+Converta esse código de plano de fundo JSX para EJS
+Se esse não for o código certo, a biblioteca index é https://reactbits.dev/llms.txt.
 
 ## Uso da Inteligência Artificial
  - Perguntas de layout
