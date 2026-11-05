@@ -68,6 +68,7 @@ Se esse não for o código certo, a biblioteca index é https://reactbits.dev/ll
 <img src="Assets/Captura de tela 2026-11-05 184721.png">
 <img src="Assets/Captura de tela 2026-11-05 184736.png">
 <img src="Assets/Captura de tela 2026-11-05 184901.png">
+<img src="Assets/Captura de tela 2026-11-05 192234.png">
 
 ## Antes da Reestilização
 <img src="Assets/Captura de tela 2026-11-05 185618.png">
